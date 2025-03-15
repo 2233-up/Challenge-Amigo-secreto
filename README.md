@@ -18,6 +18,6 @@ Uso
 1.	Ingresa un nombre en el campo de texto y haz clic en Agregar para añadirlo a la lista.
 2.	La lista de amigos se actualizará automáticamente para mostrar los nombres ingresados.
 3.	Haz clic en Sortear para seleccionar un "Amigo Secreto" aleatorio de la lista.
-4.	
+	
 
-5.	Las contribuciones son bienvenidas. 
+•	Las contribuciones son bienvenidas. 
