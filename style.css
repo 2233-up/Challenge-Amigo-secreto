@@ -1,6 +1,6 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
+    --color-primary: #9e4bfd;
+    --color-secondary: #f8d084;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
@@ -111,7 +111,7 @@ button {
     font-size: 16px;
     border: 2px solid #000;
     border-radius: 25px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 8px rgba(192, 185, 185, 0.3);
     cursor: pointer;
 }
 
@@ -122,7 +122,7 @@ button {
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: #f3c3c3;
 }
 
 /* Listas */
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #2d05df;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
